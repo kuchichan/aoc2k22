@@ -1,3 +1,3 @@
 @main def hello: Unit = 
-  println(Day2.small_2)
-  print(Day2.answer_2)
+  println(Day3.answer_1)
+  println(Day3.answer_2)
